@@ -69,4 +69,6 @@ This repository contains the academic work completed as part of a university gro
 
 ## Author
 
-**Khizra Batool**
+This repository is maintained on my GitHub as part of a university group project completed during coursework with my team.
+
+**Khizra Batool** and **Mohammad Romial**
