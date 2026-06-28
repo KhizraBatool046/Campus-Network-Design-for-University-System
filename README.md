@@ -71,4 +71,4 @@ This repository contains the academic work completed as part of a university gro
 
 This repository is maintained on my GitHub as part of a university group project completed during coursework with my team.
 
-**Khizra Batool** and **Mohammad Romial**
+**Khizra Batool** and **Mohammad Romail**
